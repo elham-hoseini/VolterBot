@@ -10,14 +10,14 @@ No matter the device—be it a widescreen monitor, a sleek tablet, or a pocket-s
 
 Users can interact with the homepage by navigating through the components. Key features include:
 
-# Navbar: Provides navigation links and branding.
-# Header: Displays a hero image and welcome message.
-# Brand: It whispers stories of innovation, trust, and authenticity.
-# Features: Describe the purpose of this unique component.
-# Possibility: Explain the role of the “Possibility” component.
-# CTA: Encourages users to take action (customize as needed).
-# Blog: Showcases recent blog posts or other related content.
-# Footer: Contains copyright information and contact details.
+Navbar: Provides navigation links and branding.
+Header: Displays a hero image and welcome message.
+Brand: It whispers stories of innovation, trust, and authenticity.
+Features: Describe the purpose of this unique component.
+Possibility: Explain the role of the “Possibility” component.
+CTA: Encourages users to take action (customize as needed).
+Blog: Showcases recent blog posts or other related content.
+Footer: Contains copyright information and contact details.
 
 # Contributing
 Contributions are welcome! If you’d like to contribute:
